@@ -4,7 +4,7 @@ import { Pannellum } from "pannellum-react";
 export default function App() {
   return (
     <Pannellum
-      width="50%"
+      width="600px"
       height="300px"
       image="/image.jpg"
       pitch={10}
